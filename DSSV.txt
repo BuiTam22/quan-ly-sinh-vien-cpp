@@ -1,0 +1,49 @@
+Bui Van Tam
+27001
+TH27.15
+CNTT
+22/03/2004
+Ha Noi
+3.8
+Nguyen Van A
+27002
+TH27.15
+CNTT
+01/04/2004
+Ha Nam
+3.4
+Nguyen Thi Anh
+27006
+TH27.18
+CNTT
+20/05/2004
+Bac Giang
+3.4
+Nguyen Danh Quang
+27004
+TH27.16
+CNTT
+26/05/2004
+Ha Tay
+3.4
+Nguyen Bao Anh
+27003
+LT27.15
+LT
+14/06/2004
+Ha Noi
+3.2
+Nguyen Van B
+27005
+QT27.15
+QTKD
+03/01/2004
+Ha Tay
+3.2
+Tran Quoc Anh
+27007
+TH27.18
+CNTT
+05/03/2004
+Thanh Hoa
+2.2
